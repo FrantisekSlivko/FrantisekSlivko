@@ -15,6 +15,8 @@ Currently a B.Sc. student in Informatics at IMC University of Applied Sciences K
 ### Featured Projects
 
 **[chek](https://github.com/FrantisekSlivko/chek)  — Native x86-64 Compiler in C**
+
+
 ​A zero-dependency, native compiler written in C targeting x86-64 (ELF64 and PE32+).
 - Frontend: Zero-copy tokenizer, recursive-descent and Shunting-Yard expression parser, and `file:line:col` caret diagnostics.
 - Optimizations (`-O1` / `-O2`): Constant folding, constant propagation, algebraic simplification, constant branch evaluation, and function inlining.
