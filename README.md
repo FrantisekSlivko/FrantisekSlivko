@@ -23,7 +23,7 @@ Currently a B.Sc. student in Informatics at IMC University of Applied Sciences K
 - Backend: Custom x86-64 code generator following the System V AMD64 ABI with standalone ELF64 and PE32+ binary emitters (no external assembler or linker).
 
 
-**Multi-Stage SSA Compiler in C** *(In Progress)*  
+**[klep](https://github.com/FrantisekSlivko/klep-compiler) Multi-Stage SSA Compiler in C** *(In Progress)*  
 A statically typed compiler written in C targeting QBE.
 - **Frontend & IR:** Emits SSA HIR directly during parsing without building an AST or resolving types.
 - **HIR Analysis:** Type inference on temporals and stack slot materialization for address taken or oversized values.
