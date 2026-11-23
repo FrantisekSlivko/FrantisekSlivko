@@ -1,6 +1,6 @@
 ## Hi, I'm František Slivko
 
-Currently a B.Sc. student in Informatics at IMC University of Applied Sciences Krems (2025–2027), focusing on systems programming, compiler construction, and low-level programming.
+Currently a B.Sc. student in Informatics at IMC University of Applied Sciences Krems (2025–present), focusing on systems programming, compiler construction, and low-level programming.
 
 [LinkedIn](https://www.linkedin.com/in/frantisek-slivko)
 
